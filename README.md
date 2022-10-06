@@ -5,7 +5,7 @@
 -   💻 Front-End _Javascript☕_ 
 -   🌐 Meu site [website](https://gabrielc2bral.web.app/)
 
-<img src="https://i.pinimg.com/originals/58/40/61/584061b0677637d5586dbfb5d322dd14.gif"  width="90" align="right" alt="r2d2">
+<img src="https://i.pinimg.com/originals/81/35/24/8135244303e3859332cd4124ef727a2c.gif"  width="90" align="right" alt="r2d2">
 <h2> 👨🏻‍💻 Habilidades <h2>
 
 <!--   💬 languages   -->
