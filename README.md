@@ -2,7 +2,7 @@
 
 -   🌎 Recife, PE - Brasil
 -   👨🏽‍💻 Análise e Desenvolvimento de Sistemas | **Uninassau**
--   💻 Front-End _Javascript☕_ Developer at [blue technology](https://www.bluetechnology.com.br/)
+-   💻 Front-End _Javascript☕_ 
 -   🌐 Meu site [website](https://gabrielc2bral.web.app/)
 
 
