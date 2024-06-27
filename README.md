@@ -11,7 +11,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=html,java,spring,mongodb,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,java,spring,mongodb,github,git,js,threejs" />
   </a>
 </p>
 
