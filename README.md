@@ -1,7 +1,7 @@
 <h2> Bem-vindo ao meu perfil! 😃</h2>
 
 -   🌎 Recife, PE - Brasil
--   👨🏽‍💻 Análise e Desenvolvimento de Sistemas | **Uninassau - Recife**
+-   👨🏽‍💻 Análise e Desenvolvimento de Sistemas & Sistemas de Informação | **Uninassau - Recife**
 -   💻 Back-End _Java☕_ 
 
 
